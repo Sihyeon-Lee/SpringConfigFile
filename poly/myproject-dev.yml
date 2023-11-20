@@ -1,5 +1,5 @@
 server:
-  port: 12100
+  port: 12110
 
 management:
   endpoints:
@@ -18,4 +18,4 @@ management:
     address: localhost
     port: 12101
 
-  poly: 'BigData Dev!'
+poly: 'BigData Dev!'
