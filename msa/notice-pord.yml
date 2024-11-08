@@ -32,8 +32,8 @@ spring:
     open-in-view: 'false'
   datasource:
     driver-class-name: org.mariadb.jdbc.Driver
-    password: ${MARIADB-PASSWORD}
-    username: ${MARIADB-USER}
+    password: '1234'
+    username: poly
     url: jdbc:mariadb://localhost:13306/myDB
   application:
     name: NOTICE-SERVICE
